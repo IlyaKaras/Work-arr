@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Team_work_in_git\\Work-arr\\Task268\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B44C0C9F-50D1-4109-95A8-B0A03846A963}|Task268\\Task268.vcxproj|D:\\Team_work_in_git\\Work-arr\\Task268\\Task268\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B44C0C9F-50D1-4109-95A8-B0A03846A963}|Task268\\Task268.vcxproj|solutionrelative:Task268\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44C0C9F-50D1-4109-95A8-B0A03846A963}|Task268\\Task268.vcxproj|D:\\Team_work_in_git\\Work-arr\\Task268\\Task268\\Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B44C0C9F-50D1-4109-95A8-B0A03846A963}|Task268\\Task268.vcxproj|solutionrelative:Task268\\Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.h",
+              "DocumentMoniker": "D:\\Team_work_in_git\\Work-arr\\Task268\\Task268\\Function.h",
+              "RelativeDocumentMoniker": "Task268\\Function.h",
+              "ToolTip": "D:\\Team_work_in_git\\Work-arr\\Task268\\Task268\\Function.h",
+              "RelativeToolTip": "Task268\\Function.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T15:42:51.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function.cpp",
+              "DocumentMoniker": "D:\\Team_work_in_git\\Work-arr\\Task268\\Task268\\Function.cpp",
+              "RelativeDocumentMoniker": "Task268\\Function.cpp",
+              "ToolTip": "D:\\Team_work_in_git\\Work-arr\\Task268\\Task268\\Function.cpp",
+              "RelativeToolTip": "Task268\\Function.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T15:42:38.302Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
